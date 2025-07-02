@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MetaHuman Performance Capture",
+	"Description": "Adds MetaHuman creator pipelines to build performance capture workflow compatible MetaHumans.",
+	"Category": "Other",
+	"CreatedBy": "Byron Mallett",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MetaHumanPerformanceCapture",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
